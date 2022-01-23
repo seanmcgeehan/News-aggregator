@@ -23,3 +23,7 @@ in a document and the inverse document frequency penalizes words that appear in 
 Collection (the value) of entries consisting of a document and the TF-IDF value of the term in that
 document. The collection is sorted by reverse tag term TF-IDF value. In other words, the document in
 which a term has the highest TF-IDF should be visited first. 
+
+
+
+![alt text](https://github.com/seanmcgeehan/News-aggregator/blob/main/Screen%20Shot%202022-01-23%20at%2012.15.25%20PM.png?raw=true)
